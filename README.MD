@@ -1,2 +1,1 @@
-t une merde
-non enfait
+Git c'est génial
